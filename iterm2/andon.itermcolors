@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ansi 0 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.0</real>
+		<key>Green Component</key>
+		<real>0.0</real>
+		<key>Red Component</key>
+		<real>0.0</real>
+	</dict>
+	<key>Ansi 1 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.26129943132400513</real>
+		<key>Green Component</key>
+		<real>0.219949871301651</real>
+		<key>Red Component</key>
+		<real>0.66111290454864502</real>
+	</dict>
+	<key>Ansi 10 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.1145026683807373</real>
+		<key>Green Component</key>
+		<real>0.54487210512161255</real>
+		<key>Red Component</key>
+		<real>0.45379653573036194</real>
+	</dict>
+	<key>Ansi 11 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.14767499268054962</real>
+		<key>Green Component</key>
+		<real>0.53167009353637695</real>
+		<key>Red Component</key>
+		<real>0.64644020795822144</real>
+	</dict>
+	<key>Ansi 12 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.42589014768600464</real>
+		<key>Green Component</key>
+		<real>0.20242661237716675</real>
+		<key>Red Component</key>
+		<real>0.21840377151966095</real>
+	</dict>
+	<key>Ansi 13 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.20684090256690979</real>
+		<key>Green Component</key>
+		<real>0.35682019591331482</real>
+		<key>Red Component</key>
+		<real>0.64103752374649048</real>
+	</dict>
+	<key>Ansi 14 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.55466842651367188</real>
+		<key>Green Component</key>
+		<real>0.41046598553657532</real>
+		<key>Red Component</key>
+		<real>0.34990066289901733</real>
+	</dict>
+	<key>Ansi 15 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.27847498655319214</real>
+		<key>Green Component</key>
+		<real>0.24105742573738098</real>
+		<key>Red Component</key>
+		<real>0.18785782158374786</real>
+	</dict>
+	<key>Ansi 2 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.11288603395223618</real>
+		<key>Green Component</key>
+		<real>0.37991467118263245</real>
+		<key>Red Component</key>
+		<real>0.24713283777236938</real>
+	</dict>
+	<key>Ansi 3 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.29690054059028625</real>
+		<key>Green Component</key>
+		<real>0.44623541831970215</real>
+		<key>Red Component</key>
+		<real>0.48291659355163574</real>
+	</dict>
+	<key>Ansi 4 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.52522271871566772</real>
+		<key>Green Component</key>
+		<real>0.29804432392120361</real>
+		<key>Red Component</key>
+		<real>0.17622514069080353</real>
+	</dict>
+	<key>Ansi 5 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.28883635997772217</real>
+		<key>Green Component</key>
+		<real>0.24646338820457458</real>
+		<key>Red Component</key>
+		<real>0.48264282941818237</real>
+	</dict>
+	<key>Ansi 6 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.47095158696174622</real>
+		<key>Green Component</key>
+		<real>0.31468969583511353</real>
+		<key>Red Component</key>
+		<real>0.38142207264900208</real>
+	</dict>
+	<key>Ansi 7 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.379293292760849</real>
+		<key>Green Component</key>
+		<real>0.37928685545921326</real>
+		<key>Red Component</key>
+		<real>0.37929821014404297</real>
+	</dict>
+	<key>Ansi 8 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.1745971292257309</real>
+		<key>Green Component</key>
+		<real>0.1745971292257309</real>
+		<key>Red Component</key>
+		<real>0.1745971292257309</real>
+	</dict>
+	<key>Ansi 9 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.25431811809539795</real>
+		<key>Green Component</key>
+		<real>0.21593454480171204</real>
+		<key>Red Component</key>
+		<real>0.66991806030273438</real>
+	</dict>
+	<key>Background Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.0</real>
+		<key>Green Component</key>
+		<real>0.0</real>
+		<key>Red Component</key>
+		<real>0.0</real>
+	</dict>
+	<key>Bold Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.379293292760849</real>
+		<key>Green Component</key>
+		<real>0.37928685545921326</real>
+		<key>Red Component</key>
+		<real>0.37929821014404297</real>
+	</dict>
+	<key>Cursor Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.51685798168182373</real>
+		<key>Green Component</key>
+		<real>0.50962930917739868</real>
+		<key>Red Component</key>
+		<real>0.44058024883270264</real>
+	</dict>
+	<key>Cursor Text Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.19370138645172119</real>
+		<key>Green Component</key>
+		<real>0.15575926005840302</real>
+		<key>Red Component</key>
+		<real>0.0</real>
+	</dict>
+	<key>Foreground Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.379293292760849</real>
+		<key>Green Component</key>
+		<real>0.37928685545921326</real>
+		<key>Red Component</key>
+		<real>0.37929821014404297</real>
+	</dict>
+	<key>Selected Text Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.73710936307907104</real>
+		<key>Green Component</key>
+		<real>0.73768287897109985</real>
+		<key>Red Component</key>
+		<real>0.71043998003005981</real>
+	</dict>
+	<key>Selection Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.12152820825576782</real>
+		<key>Green Component</key>
+		<real>0.38773828744888306</real>
+		<key>Red Component</key>
+		<real>0.25412556529045105</real>
+	</dict>
+</dict>
+</plist>
