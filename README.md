@@ -1,5 +1,5 @@
 ## Andon
-Andon is the color palettes, inspired by scenery of kyoto.
+Andon is the color palette, inspired by scenery of kyoto.
 
 ## Editor
 
