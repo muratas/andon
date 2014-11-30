@@ -1,5 +1,5 @@
 ## Andon
-Andon is th color palettes.
+Andon is the color palettes, inspired by scenery of kyoto.
 
 ## Editor
 
@@ -9,3 +9,5 @@ Andon is th color palettes.
 
 * iTerm2
 * OS X Terminal.app
+
+## Screenshots
