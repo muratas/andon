@@ -11,3 +11,5 @@ Andon is the color palette, inspired by scenery of kyoto.
 * OS X Terminal.app
 
 ## Screenshots
+
+![screenshot](doc/images/screenshot01.png)
